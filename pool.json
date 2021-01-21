@@ -96,7 +96,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"https:\/\/retreat.lullabot.com\/water.mp3"
+                 "value":"water.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
