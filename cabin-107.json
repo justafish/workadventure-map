@@ -93,6 +93,12 @@
          "id":6,
          "name":"Brick",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.youtube.com\/embed\/L_LUpnjgPso&autoplay=1"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":22,
