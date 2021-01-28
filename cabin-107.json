@@ -67,7 +67,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/dQw4w9WgXcQ&autoplay=1"
+                 "value":"https:\/\/www.youtube.com\/embed\/dQw4w9WgXcQ?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -97,7 +97,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/L_LUpnjgPso&autoplay=1"
+                 "value":"https:\/\/www.youtube.com\/embed\/L_LUpnjgPso?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
