@@ -60,7 +60,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"audio\/sprinkers.mp3"
+                 "value":"audio\/sprinklers.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
