@@ -36,7 +36,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"cabins.json"
+                 "value":"cabins.json#216exit"
                 }],
          "type":"tilelayer",
          "visible":true,
