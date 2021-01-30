@@ -115,7 +115,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"cabins.json"
+                 "value":"cabins.json#107exit"
                 }],
          "type":"tilelayer",
          "visible":true,
