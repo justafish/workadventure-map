@@ -40,7 +40,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"playAudio",
                  "type":"string",
                  "value":"audio\/zelda.mp3"
                 }],
