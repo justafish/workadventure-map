@@ -69,6 +69,12 @@
          "id":10,
          "name":"cabinExit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
@@ -413,6 +419,15 @@
                          "name":"collides",
                          "type":"bool",
                          "value":false
+                        }]
+                }, 
+                {
+                 "id":724,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {

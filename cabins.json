@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"lawn.json#cabinEntrance"
+                 "value":"lawn.json#cabinExit"
                 }],
          "type":"tilelayer",
          "visible":true,
