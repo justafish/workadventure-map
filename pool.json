@@ -157,7 +157,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"jacuzzi"
+                 "value":"Jacuzzi"
                 }],
          "type":"tilelayer",
          "visible":true,

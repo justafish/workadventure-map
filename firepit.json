@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":23,
  "infinite":false,
  "layers":[
@@ -78,7 +85,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"firepit"
+                 "value":"Firepit"
                 }],
          "type":"tilelayer",
          "visible":true,
