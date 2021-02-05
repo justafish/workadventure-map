@@ -1307,6 +1307,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"getItem",
+                 "type":"string",
+                 "value":"MinXgBsc0b"
+                }, 
+                {
                  "name":"playAudio",
                  "type":"string",
                  "value":"audio\/mustang.mp3"
